@@ -7,3 +7,5 @@
 This is my solution for a challenge made in Frontend Mentor's website.
 
 ## Live Preview
+
+https://luispolanco25.github.io/3-column-preview/
