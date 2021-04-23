@@ -108,14 +108,6 @@ button {
     cursor: pointer;
 }
 
-.attribution { 
-    font-size: 11px; text-align: center; 
-}
-    
-.attribution a {
-    color: hsl(228, 45%, 44%); 
-}
-
 @media (max-width: 970px) {
 
     main {
@@ -160,11 +152,6 @@ button {
 
     #luxury {
         border-radius: 0px 0px 5px 5px;
-    }
-
-    footer {
-        margin-top: 40px;
-        padding-bottom: 20px;
     }
 
 }
